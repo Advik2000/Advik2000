@@ -1,0 +1,21 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:rgb(33, 126, 233);
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:#23ecf3;
+	position:static;
+	top:0;
+	z-index:10;
+}
+.nav-link:hover {
+	background-image: url('https://image.shutterstock.com/shutterstock/photos/1326553091/display_1500/stock-photo-businessman-using-mobile-online-banking-and-payment-digital-marketing-finance-and-banking-1326553091.jpg');
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:rgb(236, 42, 42);
+}
