@@ -1,2 +1,2 @@
-# Banking
-GRIP@ Sparks Foundation web development and designing internship Task-1 Basic Banking website The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation. Internship Category - Web Development and Design Internship Duration - 2 Month ( MARCH-2022 ) Internship Type - Work from Home
+Devops Engineer
+Enthusiastic and motivated DevOps Engineer with a solid understanding of cloud platforms, containerization, and automation tools. Seeking to leverage hands-on experience with AWS, Docker, Kubernetes, Terraform, Python, and Shell Scripting in a challenging entry-level position to streamline development and deployment processes.
